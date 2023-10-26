@@ -1,2 +1,2 @@
 # Eniac-Magist-Case
-Eniac Case from WBS Coding SChool using SQL and tableau
+Eniac Case from WBS Coding School using SQL and tableau
