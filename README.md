@@ -3,7 +3,7 @@
 
 Eniac, an online marketplace specializing in high-end tech products, is exploring an expansion to the Brazilian market. The problem for Eniac is that the company doesn’t have ties with local providers, package delivery services, or customer service agencies. Therefore they are considering working with Magist, a Brazilian Service company that offers a centralized order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces. In addition, Magist provides after-sales services such as stock and warehouse management, product shipment, and customer service related to the shipment.
 
-To decide if there is a good strategic fit between Eniac and Magist the data department (= the data science students) was asked to evaluate Magist's database along the following questions:
+To decide if there is a good strategic fit between Eniac and Magist the data department (= the data science students) was asked to evaluate [Magist's database](https://drive.google.com/file/d/1E6-R1P3HsWYRFTHTv9iBGm4jKOFYbVaZ/view?usp=drive_link) along the following questions:
 
 1. In relation to the products:
 What categories of tech products does Magist have?
