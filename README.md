@@ -22,5 +22,5 @@ What’s the average time between the order being placed and the product being d
 How many orders are delivered on time vs orders delivered with a delay?
 Is there any pattern for delayed orders, e.g. big products being delayed more often?
 
-The task was to use SQL for data analysis and tableau for data visualization. The results had to be presented in a 5 min presentation which can be found here.
+The task was to use SQL for data analysis and tableau for data visualization. The results had to be presented in a 5 min presentation which can be found [here.](https://docs.google.com/presentation/d/1EmuLLSI3yszvBkb0pa_QeuAzSyv_ZKNUbfI9IRcWSXk/edit?usp=drive_link)
 
